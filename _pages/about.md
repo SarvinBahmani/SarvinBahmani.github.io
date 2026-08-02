@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: Sarvin
+title: Sarvin
 permalink: /
-subtitle: PhD student, <a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science</a>,  <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>
+subtitle: <a href="https://www.liverpool.ac.uk/computer-science/">Computer Science</a>,  <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>
 
 profile:
   align: right
@@ -17,8 +17,8 @@ social: true
 
 ---
 
-I am a PhD student in Computer Science at the University of Liverpool, supervised by [Sven Schewe](https://www.csc.liv.ac.uk/~sven/).
+I am a PhD student under the kind supervision of [Sven Schewe](https://www.csc.liv.ac.uk/~sven/).
 
-My research is in automata theory and the algorithmic analysis of games on graphs. I currently work on discounted payoff games in which players have different discount factors.
+My research is in automata theory and the algorithmic analysis of games on graphs. I currently work on discounted payoff games with heterogeneous discount factors.
 
 I have collaborated with [Ashutosh Trivedi](https://ashutoshtrivedi.com/) and [Sadegh Soudjani](https://hycodev.com/ssoudjani).
