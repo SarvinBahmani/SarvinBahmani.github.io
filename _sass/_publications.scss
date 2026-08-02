@@ -186,3 +186,9 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+
+.publications .badge,
+.publications .btn {
+  text-transform: none;
+}

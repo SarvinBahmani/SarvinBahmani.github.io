@@ -9,7 +9,11 @@
   year={2026},
   selected={true},
   bibtex_show={true},
-  preview={imdp.png}
+  preview={imdp.png},
+  abstract={Interval Markov decision processes (IMDPs) provide a natural framework for modeling stochastic systems with uncertain transition probabilities, represented by probability intervals and resolved adversarially. Such uncertainty arises naturally, for example, when the transition model is learned from finite data or obtained through model-based reinforcement learning. In this paper, we study the automata-theoretic verification of IMDPs against rich temporal specifications, including all LTL specifications, by considering the broader class of $\omega$-regular objectives.
+            We show that classical automata-theoretic verification techniques extend to IMDPs, but with a sharp distinction determined by the structure of the transition intervals. For stable IMDPs, where interval bounds exclude zero, verification reduces to ordinary MDP analysis and can be carried out using the standard automata used in that setting (good-for-MDP automata). For unstable IMDPs, where intervals may include zero, verification becomes game-like and requires automata whose nondeterminism can be resolved online (good-for-games automata). Building on these insights, we develop algorithms for verifying $\omega$-regular specifications over IMDPs and derive probabilistic guarantees when the interval model is learned from sampled data.
+            The resulting framework enables principled verification of stochastic systems under probabilistic model uncertainty, connecting automata-based verification with data-driven stochastic modeling.
+            }
 }
 
 @inproceedings{bahmani2026asymmetric,
@@ -20,7 +24,13 @@
   year={2026},
   selected={true},
   bibtex_show={true},
-  preview={bribery.jpg}
+  preview={bribery.jpg},
+  abstract={We study asymmetrically discounted stochastic games, in which players use distinct and reasonably apart discount factors.
+            We show that optimal strategies in these games may require both memory and randomisation, in contrast to the classical symmetrically discounted setting.
+            Our main technical contribution establishes that computing incentive Stackelberg equilibria---a variant of Stackelberg equilibria in which one player, called Player Max, can offer payments to the other player, called Player Min---is no harder than solving classical discounted games.
+            We further show that optimal strategies in this setting can be realised by finite counting strategies, whereas restricting players to stationary strategies makes the problem computationally intractable.
+            Finally, we establish that computing classical Stackelberg equilibria in these games under the constraint of memoryless strategies is NP-complete and remains NP-hard even when general or counting strategies are allowed.
+            }
 }
 
 @inproceedings{bahmani2026welfare,
@@ -31,8 +41,11 @@
   year={2026},
   selected={true},
   bibtex_show={true},
-  preview={commonGood.png}
+  preview={commonGood.png},
+  abstract={In several socioeconomic-critical decision-making settings, such as fair resource allocation, climate policy, or AI alignment, multiple principals interact within a common arena. While it is well established that these principals may have differing preferences, decision-making under heterogeneous time preferences remains relatively unexplored. In particular, principals may weigh future outcomes differently and may derive distinct utilities from the same decisions. Motivated by such scenarios, we introduce the notion of heterogeneous time preferences in MDPs, where multiple principals possess distinct reward functions and apply different discount factors to future rewards. To compute meaningful decisions in such settings, an AI agent must rely on a notion of optimality that accounts for the preferences of all principals. We adopt a utilitarian notion of social welfare, defined as the sum of utilities accrued to all principals, and study the synthesis of agent strategies that maximise this welfare. Under heterogeneous time preferences, we show that optimal strategies are no longer positional, even when all principals receive identical rewards. Nevertheless, optimal strategies remain structurally simple: they can be realized as pure finite-memory counting strategies, require only polynomial memory in the system size, and can be synthesized in polynomial time. On the other hand, we show that deciding threshold questions for optimal positional strategies is NP-hard, exposing a poor trade-off: insisting on positional simplicity neither makes synthesis tractable nor preserves social welfare.
+            }
 }
+
 
 @inproceedings{bahmani2026randomised,
   abbr={FoSSaCS 2026},
@@ -40,8 +53,12 @@
   author={Bahmani, Sarvin and Ibsen-Jensen, Rasmus and Paul, Soumyajit and Schewe, Sven and Slivovsky, Friedrich and Tang, Qiyi and Wojtczak, Dominik and Zhu, Shufang},
   booktitle={Foundations of Software Science and Computation Structures},
   year={2026},
+  doi={10.1007/978-3-032-22730-0_3},
+  arxiv={2605.12251},
+  slides={soumyaGame.pdf},
   selected={true},
   bibtex_show={true},
+  abstract={In several socioeconomic-critical decision-making settings, such as fair resource allocation, climate policy, or AI alignment, multiple principals interact within a common arena. While it is well established that these principals may have differing preferences, decision-making under heterogeneous time preferences remains relatively unexplored. In particular, principals may weigh future outcomes differently and may derive distinct utilities from the same decisions. Motivated by such scenarios, we introduce the notion of heterogeneous time preferences in MDPs, where multiple principals possess distinct reward functions and apply different discount factors to future rewards. To compute meaningful decisions in such settings, an AI agent must rely on a notion of optimality that accounts for the preferences of all principals. We adopt a utilitarian notion of social welfare, defined as the sum of utilities accrued to all principals, and study the synthesis of agent strategies that maximise this welfare. Under heterogeneous time preferences, we show that optimal strategies are no longer positional, even when all principals receive identical rewards. Nevertheless, optimal strategies remain structurally simple: they can be realized as pure finite-memory counting strategies, require only polynomial memory in the system size, and can be synthesized in polynomial time. On the other hand, we show that deciding threshold questions for optimal positional strategies is NP-hard, exposing a poor trade-off: insisting on positional simplicity neither makes synthesis tractable nor preserves social welfare.},
   preview={soumyaGame.png}
 }
 
