@@ -15,11 +15,6 @@ profile:
 selected_papers: true
 social: true
 
-announcements:
-  enabled: false
-
-latest_posts:
-  enabled: false
 ---
 
 I am a PhD student in Computer Science at the University of Liverpool, supervised by [Sven Schewe](https://www.csc.liv.ac.uk/~sven/).
