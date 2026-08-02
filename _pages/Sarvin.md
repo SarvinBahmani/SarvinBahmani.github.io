@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: Sarvin
+title: Sarvin
 permalink: /
 subtitle: <a href="https://www.liverpool.ac.uk/computer-science/">Computer Science</a>,  <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>
 
