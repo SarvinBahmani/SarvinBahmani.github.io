@@ -21,4 +21,4 @@ I am a PhD student in Computer Science at the University of Liverpool, supervise
 
 My research is in automata theory and the algorithmic analysis of games on graphs. I currently work on discounted payoff games in which players have different discount factors.
 
-I have also worked with [Ashutosh Trivedi](https://ashutoshtrivedi.com/) and [Sadegh Soudjani](https://hycodev.com/ssoudjani).
+I have collaborated with [Ashutosh Trivedi](https://ashutoshtrivedi.com/) and [Sadegh Soudjani](https://hycodev.com/ssoudjani).
