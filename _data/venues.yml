@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+CDC:
+  url: https://css.paperplaza.net/conferences/CDC/
   color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+CONCUR:
+  url: https://concur-conference.org/
+  color: "#8c1515"
+IJCAI:
+  url: https://www.ijcai.org/
+  color: "#1f6feb"
+FoSSaCS:
+  url: https://etaps.org/
+  color: "#0b7285"
+FAMS:
+  url: https://www.frontiersin.org/journals/applied-mathematics-and-statistics
+  color: "#2f6f4e"
