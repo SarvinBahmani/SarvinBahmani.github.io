@@ -1,15 +1,15 @@
-CDC:
+CDC 2026:
   url: https://css.paperplaza.net/conferences/CDC/
-  color: "#00369f"
-CONCUR:
+  color: "#20b2AA"
+CONCUR 2026:
   url: https://concur-conference.org/
-  color: "#8c1515"
-IJCAI:
+  color: "#20b2AA"
+IJCAI 2026:
   url: https://www.ijcai.org/
-  color: "#1f6feb"
-FoSSaCS:
+  color: "#20b2AA"
+FoSSaCS 2026:
   url: https://etaps.org/
-  color: "#0b7285"
+  color: "#20b2AA"
 FAMS:
   url: https://www.frontiersin.org/journals/applied-mathematics-and-statistics
   color: "#2f6f4e"
