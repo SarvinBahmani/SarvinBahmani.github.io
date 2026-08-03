@@ -17,7 +17,7 @@ social: true
 
 ---
 
-I am a PhD student under the kind supervision of [Sven Schewe](https://www.csc.liv.ac.uk/~sven/).
+I am a PhD student under the kind supervision of [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Katie Atkinson](https://www.liverpool.ac.uk/people/katie-marie-atkinson).
 
 My research is in automata theory and the algorithmic analysis of games on graphs. I currently work on discounted payoff games with heterogeneous discount factors.
 
