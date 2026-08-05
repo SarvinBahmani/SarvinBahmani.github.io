@@ -17,11 +17,11 @@ social: true
 
 ---
 
-I am a PhD student under the kind supervision of [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Katie Atkinson](https://www.liverpool.ac.uk/people/katie-marie-atkinson).
+I am privileged to pursue my PhD under the kind supervision of [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Katie Atkinson](https://www.liverpool.ac.uk/people/katie-marie-atkinson).
 
-My research is on Digital Navigation of Chemical Space under automated reasoning. I work on extending an SMT-based tool, ComGen (Composition Generator), to discover new materials in Chemical Space.
+I am fortunate to also collaborate with and learn from [Ashutosh Trivedi](https://ashutoshtrivedi.com/) and [Sadegh Soudjani](https://hycodev.com/ssoudjani) during my PhD.
 
-As a side project, I work on automata theory and the algorithmic analysis of games on graphs. I currently work on discounted payoff games with heterogeneous discount factors.
+<!-- My research is on Digital Navigation of Chemical Space under automated reasoning. I work on extending an SMT-based tool, ComGen (Composition Generator), to discover new materials in Chemical Space. -->
 
+My research is on automata theory and the algorithmic analysis of games on graphs. I currently work on discounted payoff games with heterogeneous discount factors.
 
-I have collaborated with [Ashutosh Trivedi](https://ashutoshtrivedi.com/) and [Sadegh Soudjani](https://hycodev.com/ssoudjani).
