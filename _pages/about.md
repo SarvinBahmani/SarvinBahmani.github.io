@@ -21,7 +21,6 @@ I am privileged to pursue my PhD under the kind supervision of [Sven Schewe](htt
 
 I am fortunate to also collaborate with and learn from [Ashutosh Trivedi](https://ashutoshtrivedi.com/) and [Sadegh Soudjani](https://hycodev.com/ssoudjani) during my PhD.
 
-<!-- My research is on Digital Navigation of Chemical Space under automated reasoning. I work on extending an SMT-based tool, ComGen (Composition Generator), to discover new materials in Chemical Space. -->
-
 My research is on automata theory and the algorithmic analysis of games on graphs. I currently work on discounted payoff games with heterogeneous discount factors.
 
+I also work on Digital Navigation of Chemical Space under automated reasoning. In this context, I am extending an SMT-based tool, ComGen (Composition Generator), to discover new materials in Chemical Space.
